@@ -14,16 +14,19 @@ Good
 - Lunation
 
 Improve
-- Day of month
-- Month of year - notches around screen edge like hour notches on Earth?
+- Actual real time changing
+- Fill rendering
+- Speed
+- Day of month indication
+- Month of year indication - notches around screen edge like hour notches on Earth?
 
 Add
-- Moon types? (blood, blue, super etc)
-- Season - Season icon in corner?
-- Day of week?
-- Current Zodiac constellation?
-- Solstice (summer / winter start from Earth wobble)?
-- Presession?
+- Day of week? y
+- Moon types? (blood, blue, super etc) y
+- Season - Season icon in corner? m
+- Solstice (summer / winter start from Earth wobble)? m
+- Presession? m
+- Current Zodiac constellation? n
 
 ## Dependencies
 
