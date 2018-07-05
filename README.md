@@ -1,11 +1,11 @@
-# Dasein Time
+# Dastime ('Dasein' Time)
 
-Working title.
-Work in progress.
+- Working title.
+- Work in progress.
 
-<img src='https://raw.githubusercontent.com/kormyen/DaseinTime/master/000.jpg' width="600"/>
-<img src='https://raw.githubusercontent.com/kormyen/DaseinTime/master/001.jpg' width="600"/>
-<img src='https://raw.githubusercontent.com/kormyen/DaseinTime/master/002.jpg' width="600"/>
+<img src='https://raw.githubusercontent.com/kormyen/Dastime/master/000.jpg' width="600"/>
+<img src='https://raw.githubusercontent.com/kormyen/Dastime/master/001.jpg' width="600"/>
+<img src='https://raw.githubusercontent.com/kormyen/Dastime/master/002.jpg' width="600"/>
 
 ## Dependencies
 
